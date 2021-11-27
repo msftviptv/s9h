@@ -1,5 +1,5 @@
 <?php
 
 
-echo"A7A"
+echo"A7A";
   ?>
