@@ -1,0 +1,1 @@
+{"latest_version":"true","update_url":"https:\/\/play.google.com\/store\/apps\/details?id=com.showme2in1.iptv","rate_url":"https:\/\/play.google.com\/store\/apps\/details?id=com.showme2in1.iptv","force_update":"false","host":"http:\/\/maveniptv.com:2095\/","host1":"","enabled":"1","live":"1","vod":"1","series":"1","epg":"1","content_update":"0"}
