@@ -34,7 +34,7 @@
     <\/body>--><\/HTML>
     /*]]>*/
     </style>
-<title></title>
+<title>MSF tv</title>
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"></link>
 <link href="" rel="stylesheet" type="text/css"></link>
 <style id="page-skin-1" type="text/css"><!--
@@ -59,28 +59,7 @@ color:black;
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
 <script src="https://jwpsrv.com/library/5V3tOP97EeK2SxIxOUCPzg.js"></script>
 <style>
-.a4h_sports_events-wrapper { margin: 0px auto; text-align: center; }
-.a4h_sports_events-event_item { position: relative; margin-bottom: 20px; box-shadow: 0px 0px 3px rgba(0,0,0,0.4) inset; }
-.a4h_sports_events-event_inner { padding: 10px; }
-.a4h_sports_events-event_inner + .a4h_sports_events-event_inner { border-top: 1px solid #EEEEEE; }
-.a4h_sports_events-event_item a, .a4h_sports_events-event_item a:hover, .a4h_sports_events-event_item a:active, .a4h_sports_events-event_item a:focus { color: #333333; }
-.a4h_sports_events-event_item i { margin-left: 8px; color: #914710; }
-.a4h_sports_events-team_logo img { width: auto; max-height: 70px; }
-.a4h_sports_events-event_logo img { width: auto; max-height: 100px; }
-.a4h_sports_events-team_score { font: normal 30px/1 tahoma; color: #187017; }
-.a4h_sports_events-event_status_inner { padding: 2px 15px; font-size: 20px; border-radius: 4px; }
-.a4h_sports_events-event_status_inner_inline { display: inline-block; }
-.a4h_sports_events-event_status_inner_ended { background: #EEEEEE; }
-.a4h_sports_events-event_status_inner_live { background: #9BCF9A; }
-.a4h_sports_events-event_status_inner_coming { background: #F7EAC9; }
-.a4h_sports_events-event_title_wrapper { padding-top: 10px; padding-bottom: 10px; }
-.a4h_sports_events-event_title_wrapper > div { margin: 0px 10px; }
-.a4h_sports_events-event_mask { position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; display: none; }
-.a4h_sports_events-event_item:hover .a4h_sports_events-event_mask { display: block; }
-.a4h_sports_events-event_mask_inner { height: 100%; background: rgba(0,0,0,0.5); }
-.a4h_sports_events-event_mask_inner_text { margin-top: 0px !important; padding: 5px 20px; background: #7D0909; color: #FFFFFF !important; box-shadow: 0px 0px 5px rgba(0,0,0,0.7); }
-.a4h_sports_events-teams_vs { width: 50px; height: 50px; border-radius: 100%; border: 1px solid #992626; font: normal 24px/50px tahoma; }
-.a4h_sports_events-event_watch_label { display: inline-block; padding: 2px 15px; border-radius: 4px; background: #AFD7F4; }
+
 /* fonts */
 body { font-weight: normal; font-size: 14px; font-family: Tahoma; }
 .smallfont, .wp-caption-text { font-weight: normal; font-size: 13px; font-family: Tahoma; }
@@ -93,97 +72,6 @@ h3, .h3, .archive-style-3 .posts-list .article .entry-title { font-weight: norma
 .main-color, .widget-color, .widget-title, .site-header .lvl-1, .main-navigation .nav-menu li:hover > a, .jssort11 .pav, .jssorb01 .av, .posts.style4 ul li.item .thumb-wrap + .title + .post-items .meta, .posts ul li.heading.style2 .thumb-wrap + .title + .post-items .meta {
     background-color: #FF2E2E;
     color: #F6FCF8;
-}
-.a4h_sports_events-event_mask_inner_text {
-    margin-top: 0px !important;
-    background-color: rgba(255, 46, 46, 0.65) !important;
-    color: #fff !important;
-    padding: 5px 30px;
-    font-size: 14px !important;
-    line-height: 22px;
-    text-decoration: none;
-    z-index: 555;
-    border-radius: 10px;
-}
-/*----css---*/
-div#site .widget-title h3:not(.tab) {
-line-height: 20px;
-    text-align: center;
-    margin: 0px;
-    display: inline-block;
-    color: #fff;
-    text-decoration: none;
-    font-size: 14px;
-    padding: 5px;
- background-color: rgba(255, 46, 46, 0.83) !important;
-    background: url();
-font-family: cairo-bold;}
-/* flex */
-.flex { display: flex; }
-.flex-inline { display: inline-flex; }
-.flex-wrap { flex-wrap: wrap; }
-.flex-grow { flex: 1 1 auto; }
-.flex-middle { align-items: center; }
-.flex-start { align-items: flex-start; }
-.flex-center { justify-content: center; }
-.flex-space-between { justify-content: space-between; }
-.flex-reverse { flex-direction: row-reverse; }
-.flex-column { flex-direction: column; }
-
-
-}
-.hentry {
-border: 2px solid RGB(255, 46, 46);
-    padding: 10px;
-
-    margin-bottom: 11px;
-}
-.tv-post {
-    margin: 20px 0px 10px;
-    border: 1px solid RGB(255, 46, 46);
-    border-radius: 2px;
-    padding: 10px;
-    text-align: center;
-    background-color: #4A1D54;
-    position: relative;
-    display: block;
-    width: 100%;
-    float: right;
-}
-.servers-name {
-    display: inline-block;
-    margin: 0 0 -10px;
-    padding: 0;
-    position: relative;
-    top: -16px;
-}
-.servers-name li {
-    color: rgb(255, 255, 255);
-    background-color: rgb(15, 15, 15);
-    border-color: rgb(210, 44, 46) !important;
-    padding: 7.5px 20px;
-    margin-bottom: 5px;
-    display: inline-block;
-    text-align: center;
-    vertical-align: middle;
-    touch-action: manipulation;
-    cursor: pointer;
-    background-image: none;
-    border: 3px solid transparent;
-    white-space: nowrap;
-    padding: 6px 12px;
-    font-size: 20px;
-    line-height: 1.42857;
-    border-radius: 2px;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    cursor: pointer;
-    font-family: GE_FLOW_Bold;
-    -ms-user-select: none;
-    user-select: none;
-}
-.servers-name li.active ,.servers-name li:hover{
-    background: rgb(210, 44, 46) !important;
 }
 
 .media-control[data-media-control] .media-control-background[data-background]::before {
@@ -307,53 +195,6 @@ player.play();
 //]]>
 </script>
 
-</div>
-<div style="clear: both;">
-</div>
-</div>
-<div class="post-footer">
-<div class="post-footer-line post-footer-line-1">
-<span class="post-author vcard">
-</span>
-<span class="post-timestamp">
-</span>
-<span class="reaction-buttons">
-</span>
-<span class="post-comment-link">
-</span>
-<span class="post-backlinks post-comment-link">
-</span>
-<span class="post-icons">
-</span>
-<div class="post-share-buttons goog-inline-block">
-</div>
-</div>
-<div class="post-footer-line post-footer-line-2">
-<span class="post-labels">
-</span>
-</div>
-<div class="post-footer-line post-footer-line-3">
-<span class="post-location">
-</span>
-</div>
-</div>
-</div>
-<div class="comments" id="comments">
-<a href="https://www.blogger.com/null" name="comments"></a>
-<div id="backlinks-container">
-<div id="Blog1_backlinks-container">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="blog-pager" id="blog-pager">
-</div>
-<div class="clear">
-</div>
-</div>
-</div>
+
 </body>
 </html></div>
