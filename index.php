@@ -128,37 +128,7 @@ else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
 document.oncontextmenu=new Function("return false")
 // -->
 </script>
-</div>
-<div class="clear">
-</div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="https://www.blogger.com/rearrange?blogID=9052138879193408892&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML1&quot;));" rel="nofollow" target="configHTML1" title="تعديل">
-<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18" />
-</a>
-</span>
-</span>
-<div class="clear">
-</div>
-</div>
-<div class="widget Blog" data-version="1" id="Blog1">
-<div class="blog-posts hfeed">
-          <div class="date-outer">
-        
-          <div class="date-posts">
-        
-<div class="post-outer">
-<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
-<a href="https://www.blogger.com/null" name="2790089400061449632"></a>
-<h3 class="post-title entry-title" itemprop="name">
-beinlive4u
-</h3>
-<div class="post-header">
-<div class="post-header-line-1">
-</div>
-</div>
-<div class="post-body entry-content" id="post-body-2790089400061449632" itemprop="description articleBody">
-<div dir="rtl" style="text-align: right;" trbidi="on">
+
 <script src="//api.peer5.com/peer5.js?id=Orxbp2b5gI8"></script>
 <script src="//api.peer5.com/peer5.clappr.plugin.js"></script>
 <script src="https://cdn.jsdelivr.net/clappr/latest/clappr.min.js" type="text/javascript"></script><br />
