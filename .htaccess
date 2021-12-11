@@ -1,12 +1,1 @@
-Options -indexes
-Options +FollowSymlinks
-RewriteEngine On
-RewriteBase /
-RewriteRule ^(.+).mp4$ /akwam.php [NC,L]
-RewriteRule ^(.+).mkv$ /arabseed.php [NC,L]
-RewriteRule ^(.+).mp4$ /vid.php [NC,L]
-RewriteRule ^(.+).mp4$ /moshahda.php [NC,L]
-RewriteRule ^(.+).mp4$ /egy.php [NC,L]
-RewriteRule ^(.+).m3u8$ /$1.php [NC,L]
-RewriteRule ^(.+).m3u$ /file.php [NC,L]
-RewriteRule ^/?live/([^/]+)$ live.php?ch=$1 [NC,L]
+
