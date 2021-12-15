@@ -1,3 +1,5 @@
-<IfModule mod_headers.c>
-    Header set Access-Control-Allow-Origin "s9hlive.herokuapp.com"
-</IfModule>
+Options +FollowSymlinks -MultiViews
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !s9hlive.herokuapp\.com [NC]
