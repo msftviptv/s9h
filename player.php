@@ -150,7 +150,7 @@ var result =  window.location.search.match(new RegExp("(\\?|&)" + param + "(\\[\
 var topVideo = getQueryParam("s");
 var playerElement = document.getElementById("player");
 var player = new Clappr.Player({height: "100%", width: "100%",mediacontrol: {seekbar: '#fff', buttons: '#fff'}, plugins: {'core': [LevelSelector]}, hlsjsConfig: {xhrSetup: function(xhr, url) {xhr.withCredentials = false;}}, playbackConfig: {crossorigin: 'use-credentials'}}); player.attachTo(playerElement);
-player.load({source: <?php echo $url ?>, mimeType: 'video/mp4'});
+player.load({source: "<?php echo $url ?>", mimeType: 'video/mp4'});
 player.play();
 //]]>
 </script>
