@@ -145,10 +145,6 @@ document.oncontextmenu=new Function("return false")
 </div>
 <script>
 //<![CDATA[
-function getQueryParam(param) {
-var result =  window.location.search.match(new RegExp("(\\?|&)" + param + "(\\[\\])?=([^&]*)")); return result ? result[3] : false;}
-var topVideo = getQueryParam("s");
-var playerElement = document.getElementById("player");
 var player = new Clappr.Player({height: "100%", width: "100%",mediacontrol: {seekbar: '#fff', buttons: '#fff'}, plugins: {'core': [LevelSelector]}, hlsjsConfig: {xhrSetup: function(xhr, url) {xhr.withCredentials = false;}}, playbackConfig: {crossorigin: 'use-credentials'}}); player.attachTo(playerElement);
 player.load({source: "<?php echo $url ?>", mimeType: 'video/mp4'});
 player.play();
