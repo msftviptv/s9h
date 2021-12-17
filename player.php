@@ -3,7 +3,7 @@
 $url ="http://maveniptv.tv:2095/live/s9hbo/shikos9hbox/".$_GET['s'].".m3u8";
 
 
->
+?>
 
 
 <html xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr" xmlns="http://www.w3.org/1999/xhtml">
@@ -155,4 +155,4 @@ player.play();
 //]]>
 </script>
 </body>
-</html></div>
+</html>
