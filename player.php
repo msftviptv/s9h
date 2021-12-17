@@ -1,6 +1,6 @@
 <?php
 
-$url ="https://xyss5.herokuapp.com/http://maveniptv.tv:2095/live/s9hbo/shikos9hbox/".$_GET['s'].".m3u8";
+$url ="http://maveniptv.tv:2095/live/Shakereeer/Tbeen/".$_GET['s'].".m3u8";
 
 
 ?>
