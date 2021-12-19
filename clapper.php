@@ -16,25 +16,4 @@
    </head>
    <body 
 </script>      <div id='player'></div>
-      <script>
-         window.onload = function() {
-             var player = new Clappr.Player({
-           poster: "http://maveniptv.tv:2095/live/Shakereeer/Tbeen/56539.m3u8", 
-        position: 'bottom-RIGHT',
-watermark: 'https://h.top4top.io/p_2140lcl0p0.png',
-        source: 'http://maveniptv.tv:2095/live/Shakereeer/Tbeen/56539.m3u8',
-                 parentId: '#player',
-                 mimeType: 'audio/mpeg',
-                 plugins: [LevelSelector, ChromecastPlugin, ClapprPip.PipButton, ClapprPip.PipPlugin, DashShakaPlayback],
-                 height: '100%',
-                 width: '100%',
-                 autoPlay: true,
-                 events: {
-                     onReady: function() {
-                         var plugin = this.getPlugin('click_to_pause');
-                         plugin && plugin.disable();
-                     },
-                 },
-             });
-         };
-      </script>
+  <script language=javascript>document.write(unescape('%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%6A%61%76%61%73%63%72%69%70%74%22%3E%66%75%6E%63%74%69%6F%6E%20%64%46%28%73%29%7B%76%61%72%20%73%31%3D%75%6E%65%73%63%61%70%65%28%73%2E%73%75%62%73%74%72%28%30%2C%73%2E%6C%65%6E%67%74%68%2D%31%29%29%3B%20%76%61%72%20%74%3D%27%27%3B%66%6F%72%28%69%3D%30%3B%69%3C%73%31%2E%6C%65%6E%67%74%68%3B%69%2B%2B%29%74%2B%3D%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%73%31%2E%63%68%61%72%43%6F%64%65%41%74%28%69%29%2D%73%2E%73%75%62%73%74%72%28%73%2E%6C%65%6E%67%74%68%2D%31%2C%31%29%29%3B%64%6F%63%75%6D%65%6E%74%2E%77%72%69%74%65%28%75%6E%65%73%63%61%70%65%28%74%29%29%3B%7D%3C%2F%73%63%72%69%70%74%3E'));dF('*75*75*75*75*75*75*8Hxhwnuy*8J*5F*75*75*75*75*75*75*75*75*75%7Cnsit%7C3tsqtfi*75*8I*75kzshynts*7%3D*7%3E*75*%3CG*5F*75*75*75*75*75*75*75*75*75*75*75*75*75%7Bfw*75uqf%7Ejw*75*8I*75sj%7C*75Hqfuuw3Uqf%7Ejw*7%3D*%3CG*5F*75*75*75*75*75*75*75*75*75*75*75utxyjw*8F*75*77myyu*8F44rf%7Bjsnuy%7B3y%7B*8F75%3E%3A4qn%7Bj4Xmfpjwjjjw4Ygjjs4%3A%3B%3A8%3E3r8z%3D*77*7H*75*5F*75*75*75*75*75*75*75*75utxnynts*8F*75*7%3Cgtyytr2WNLMY*7%3C*7H*5F%7Cfyjwrfwp*8F*75*7%3Cmyyux*8F44m3ytu9ytu3nt4ud7695qhq5u53usl*7%3C*7H*5F*75*75*75*75*75*75*75*75xtzwhj*8F*75*7%3Cmyyu*8F44rf%7Bjsnuy%7B3y%7B*8F75%3E%3A4qn%7Bj4Xmfpjwjjjw4Ygjjs4%3A%3B%3A8%3E3r8z%3D*7%3C*7H*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75ufwjsyNi*8F*75*7%3C*78uqf%7Ejw*7%3C*7H*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75rnrjY%7Euj*8F*75*7%3Cfzint4rujl*7%3C*7H*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75uqzlnsx*8F*75*%3AGQj%7BjqXjqjhytw*7H*75HmwtrjhfxyUqzlns*7H*75HqfuuwUnu3UnuGzyyts*7H*75HqfuuwUnu3UnuUqzlns*7H*75IfxmXmfpfUqf%7Egfhp*%3AI*7H*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75mjnlmy*8F*75*7%3C655*7%3A*7%3C*7H*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75%7Cniym*8F*75*7%3C655*7%3A*7%3C*7H*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75fzytUqf%7E*8F*75ywzj*7H*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75j%7Bjsyx*8F*75*%3CG*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75tsWjfi%7E*8F*75kzshynts*7%3D*7%3E*75*%3CG*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75%7Bfw*75uqzlns*75*8I*75ymnx3ljyUqzlns*7%3D*7%3Chqnhpdytdufzxj*7%3C*7%3E*8G*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75uqzlns*75*7%3B*7%3B*75uqzlns3inxfgqj*7%3D*7%3E*8G*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*%3CI*7H*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*75*%3CI*7H*5F*75*75*75*75*75*75*75*75*75*75*75*75*75*%3CI*7%3E*8G*5F*75*75*75*75*75*75*75*75*75*%3CI*8G*5F*75*75*75*75*75*75*8H4xhwnuy*8J5')</script>
