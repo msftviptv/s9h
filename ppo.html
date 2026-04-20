@@ -72,7 +72,7 @@
         <div class="field">
           <label>التنسيق المفضّل للإخراج</label>
           <select id="format">
-            <option value="auto" selected>تلقائي (يختار الأفضل)</option>
+            <option value="image/jpeg" selected>تلقائي (يختار الأفضل)</option>
             <option value="image/webp">WebP</option>
             <option value="image/jpeg">JPEG</option>
             <option value="image/png">PNG* (قد لا يقلّ الحجم)</option>
@@ -147,7 +147,7 @@ async function compressToTarget(canvas, { targetBytes, startQ=0.92, typeHint='au
   const supportsWebP = canvas.toDataURL('image/webp').startsWith('data:image/webp');
   const tryTypes = [];
   if (typeHint === 'auto'){
-    if (supportsWebP) tryTypes.push('image/webp');
+    if (supportsWebP) tryTypes.push('image/jpeg');
     tryTypes.push('image/jpeg');
     tryTypes.push('image/png');
   } else {
